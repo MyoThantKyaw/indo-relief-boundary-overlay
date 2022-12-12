@@ -1,0 +1,25 @@
+{
+  "name": "New folder (5)",
+  "version": "2",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/desktop/\">MapTiler Desktop</a>",
+  "type": "baselayer",
+  "format": "pbf",
+  "minzoom": "0",
+  "maxzoom": "5",
+  "scale": "1.000000",
+  "profile": "mercator",
+  "vector_layers": [
+    {
+      "id": "Cleaned",
+      "description": "",
+      "minzoom": 0,
+      "maxzoom": 7,
+      "fields": {
+        "mvt_id": "Number",
+        "fid" : "Number",
+        "shapeName": "String"
+      }
+    }   
+  ]
+}
